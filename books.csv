@@ -1,0 +1,16 @@
+Book_ID,Book_Name,Author,Status
+1001,Python Programming,James Smith,Available
+1002,Java Programming,Herbert Schildt,Available
+1003,Database Management Systems,Raghu Ramakrishnan,Available
+1004,SQL Fundamentals,John J. Patrick,Available
+1005,Data Structures and Algorithms,Mark Allen Weiss,Available
+1006,Machine Learning,Tom Mitchell,Available
+1007,Artificial Intelligence,Stuart Russell,Available
+1008,Computer Networks,Andrew S. Tanenbaum,Available
+1009,Operating Systems,Abraham Silberschatz,Available
+1010,Web Development,Jon Duckett,Available
+1011,C Programming,Dennis Ritchie,Available
+1012,C++ Programming,Bjarne Stroustrup,Available
+1013,Clean Code,Robert C. Martin,Available
+1014,Deep Learning,Ian Goodfellow,Available
+1015,Computer Organization,Carl Hamacher,Available
