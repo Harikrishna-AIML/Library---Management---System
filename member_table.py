@@ -1,7 +1,7 @@
 import mysql.connector
 connection = mysql.connector.connect(host = "localhost",
                                      user = "root",
-                                     password = "Hari@9505",
+                                     password = "*********",
                                      database = "LibraryDB")
 if connection.is_connected():
     print("Database is connected Successfully!!")
