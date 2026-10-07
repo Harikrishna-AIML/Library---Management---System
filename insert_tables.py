@@ -10,7 +10,7 @@ df = pd.read_csv("books.csv")
 # database = new Database created by the User
 connection = mysql.connector.connect(host = "localhost",
                                      user = "root",
-                                     password = "Hari@9505",
+                                     password = "*********",
                                      database = "LibraryDB")
 # if Python is connect MySQL Server or not if it is connect this block is Executed!
 if connection.is_connected():
